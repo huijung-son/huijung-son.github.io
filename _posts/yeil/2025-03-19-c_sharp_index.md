@@ -4,6 +4,7 @@ author: cotes
 date: 2025-03-19 10:00:00
 categories: [Yeil, CSharp]
 tags: [CSharp목차]
+description: C Sharp Index
 ---
 
 ### 1. 프로그래밍을 시작합시다

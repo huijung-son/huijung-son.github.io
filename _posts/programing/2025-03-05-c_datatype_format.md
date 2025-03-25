@@ -1,9 +1,10 @@
 ---
-title: C DataTypes, Format
+title: C DataTypes and Format
 author: cotes
 date: 2025-03-05 10:00:00
 categories: [Blogging, Programing]
 tags: [C]
+description: C DataTypes and Format
 ---
 
 ### 1. C 자료형
