@@ -3,7 +3,7 @@ title: C Sharp Index
 author: cotes
 date: 2025-03-20 09:00:00
 categories: [Yeil, CSharp]
-tags: [CSharp목차]
+tags: [CSharp_index]
 description: C Sharp Index
 ---
 
@@ -303,12 +303,19 @@ description: C Sharp Index
 ### 13. 대리자와 이벤트
 
 - 대리자란?
+  - `delegate`
 - 대리자는 왜, 언제 사용하나요?
+  - `메소드에 대한 참조를 담아둘때`
 - 일반화 대리자
+  - `제네릭 메소드도 가능`
 - 대리자 체인
+  - `+=`
 - 익명 메소드
+  - `delegate 키워드를 이용하여 바로 선언`
 - 이벤트: 객체에 일어난 사건 알리기
+  - `event`
 - 대리자와 이벤트
+  - `이벤트가 대리자와 가장크게 다른점은 바로 이벤트를 외부에서 직접 사용할 수 없다`
 
 ---
 
@@ -317,11 +324,16 @@ description: C Sharp Index
 - 람다식, 너는 어디에서 왔니?
 - 처음 만나는 람다식
 - 문 형식의 람다식
+  - `{}`
 - Func와 Action으로 간편하게 무명 함수 만들기
   - Func 대리자
+    - `.NET 이 미리 만들어 놓은 대리자`
   - Action 대리자
+    - `Func 대리자는 반환이 있지만 Action 대리자는 반환이 없음`
 - 식 트리
+  - `Expression`
 - 식으로 이루어지는 멤버
+  - `=>`
 
 ---
 
