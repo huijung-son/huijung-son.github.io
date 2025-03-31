@@ -2,9 +2,9 @@
 title: Map Create (feat. C)
 author: cotes
 date: 2025-03-19 10:00:00
-categories: [Blogging, Programing]
+categories: [Self, Coding]
 tags: [C]
-description: Map Create (feat. C)
+description:
 ---
 
 ```c

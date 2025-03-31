@@ -7,3 +7,16 @@ tags: [getting started]
 ---
 
 ### [jekyll-theme-chirpy](https://chirpy.cotes.page/)
+
+- Other: 
+  - Review: 후기
+- Project
+  - Web
+- Self: 
+  - Important: 프로그래밍 정리
+  - Coding: 소스코드
+  - Reference: 알아두면 쓸모있는 참조
+  - Error: 에러모음
+
+- Todo
+  - 컴파일 시각화
