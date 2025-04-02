@@ -1,10 +1,11 @@
 ---
-title: Map Create (feat. C)
+title: Map Create (feat.C)
 author: cotes
 date: 2025-03-19 10:00:00
 categories: [Self, Coding]
 tags: [C]
 description:
+  맵제작연습
 ---
 
 ```c
