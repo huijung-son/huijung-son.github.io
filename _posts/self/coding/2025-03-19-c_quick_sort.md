@@ -3,12 +3,10 @@ title: Quick Sort
 author: cotes
 date: 2025-03-19 10:00:00
 categories: [Self, Coding]
-tags: [C]
+tags: []
 description: 
-  QuickSort
+  퀵정렬 연습
 ---
-
-### 1. 퀵정렬 복습
 
 ```c
 #include <stdio.h>

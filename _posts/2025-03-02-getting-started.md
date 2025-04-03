@@ -11,13 +11,8 @@ tags: [getting started]
 - Other: 
   - Review: 후기
 - Project
-  - Web
-  - Unity
 - Self: 
-  - Important: 프로그래밍 정리
   - Coding: 소스코드
+  - Important: 프로그래밍 정리
   - Reference: 알아두면 쓸모있는 참조
   - Error: 에러모음
-
-- Todo
-  - 컴파일 시각화
