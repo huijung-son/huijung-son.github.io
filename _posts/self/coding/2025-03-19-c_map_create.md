@@ -5,7 +5,7 @@ date: 2025-03-19 10:00:00
 categories: [Self, Coding]
 tags: []
 description:
-  맵제작연습
+  Coding
 ---
 
 ```c
