@@ -1,5 +1,5 @@
 ---
-title: C언어 자료형 포맷 정리
+title: C언어 자료형 포맷
 author: cotes
 date: 2025-03-05 10:00:00
 categories: [Self, Important]
