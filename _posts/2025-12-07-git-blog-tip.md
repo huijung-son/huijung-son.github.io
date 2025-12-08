@@ -1,0 +1,25 @@
+---
+title: "Git Blog Tip"
+date: 2025-12-07 14:00:00
+categories: [Git, Tip]
+tags: [Tip]
+description: ""
+---
+
+### Git Upstream
+
+```shell
+git remote add upstream https://github.com/cotes2020/jekyll-theme-chirpy
+git remote -v
+git fetch upstream
+git checkout master
+git merge upstream/master
+```
+
+---
+
+### Run Server
+
+```shell
+bundle exec jekyll serve
+```
