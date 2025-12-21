@@ -8,7 +8,7 @@ description: ""
 
 ### Video
 
-<video src="/assets/video/BurstsOn_ice.mp4"
+<video src="/assets/video/burstsOn_ice.mp4"
 controls
 controlslist="nodownload"
 preload="metadata"
