@@ -20,7 +20,7 @@ description: ""
 - 게임시작
 
 <iframe
-src="/assets/webgl/cookierun/index.html"
+src="/assets/webgl/cookieRun/index.html"
 width="100%"
 height="565">
 </iframe>
