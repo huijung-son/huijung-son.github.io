@@ -34,4 +34,6 @@ description: ""
 
 ### 오브젝트 프랙처(Object Fracture)
 
-![img](/assets/post/burstsOn/brokenBot_1.png)
+- 참고 영상
+
+[![img](https://img.youtube.com/vi/Z7Vbozd9bwY/0.jpg)](https://www.youtube.com/watch?v=Z7Vbozd9bwY)
