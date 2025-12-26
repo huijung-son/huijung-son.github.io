@@ -1,14 +1,12 @@
 ---
 title: "Git Blog Tips"
 date: 2025-12-01 14:00:00
-categories: [Blog, Any]
-tags: [Tips]
+categories: [Common, Blog]
+tags: [Blog]
 description: ""
 ---
 
-## Command
-
-### Git Upstream
+## Git Blog Upstream
 
 ```shell
 git remote add upstream https://github.com/cotes2020/jekyll-theme-chirpy
@@ -18,7 +16,9 @@ git checkout master
 git merge upstream/master
 ```
 
-### Run Server
+---
+
+## Jekyll Run Server
 
 ```shell
 bundle exec jekyll serve
