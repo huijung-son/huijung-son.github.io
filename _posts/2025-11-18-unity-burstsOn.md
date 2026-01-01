@@ -6,11 +6,13 @@ tags: [BurstsOn]
 description: ""
 ---
 
-## Bursts On
-
 ### 프로젝트 개요
 
-![img](/assets/post/burstsOn/burstsOn_0.png)
+|      구분      |    내용     |
+|:------------:|:---------:|
+|      장르      |  액션 배틀로얄  |
+|     팀 인원     |    2명     |
+|    개발 기간     |    4개월    |
 
 ### 플레이 영상
 
@@ -20,7 +22,7 @@ description: ""
 
 ---
 
-## Broken Bot
+## Broken Bot (데모 버전)
 
 ### 플레이 영상
 

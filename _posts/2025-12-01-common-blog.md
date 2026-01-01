@@ -1,12 +1,12 @@
 ---
-title: "Git Blog Tips"
+title: "Jekyll Blog Tips"
 date: 2025-12-01 14:00:00
 categories: [Common, Blog]
 tags: [Blog]
 description: ""
 ---
 
-## Git Blog Upstream
+## Git Upstream
 
 ```shell
 git remote add upstream https://github.com/cotes2020/jekyll-theme-chirpy
