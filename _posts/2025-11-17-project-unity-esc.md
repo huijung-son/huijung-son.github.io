@@ -1,8 +1,8 @@
 ---
-title: "Unity Project - E.S.C (Escape the School)"
+title: "E.S.C (Escape the School)"
 date: 2025-11-17 14:00:00
-categories: [Unity, Project]
-tags: [E.S.C]
+categories: [Project, Unity]
+tags: []
 description: ""
 ---
 
@@ -17,7 +17,7 @@ description: ""
 ### 플레이 영상
 
 <video controls controlslist="nodownload" preload="metadata" playsinline width="100%">
-  <source src="/assets/video/esc_pc.mp4" type="video/mp4">
+  <source src="/assets/post/esc/esc_pc.mp4" type="video/mp4">
 </video>
 
 - 00:48 무한 계단

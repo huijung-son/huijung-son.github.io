@@ -1,8 +1,8 @@
 ---
 title: "Bubble Sort"
 date: 2025-03-04 14:00:00
-categories: [Common, Algorithm]
-tags: [Algorithm]
+categories: [Algorithm, Sort]
+tags: []
 description: ""
 ---
 

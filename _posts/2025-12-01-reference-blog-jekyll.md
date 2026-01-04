@@ -1,8 +1,8 @@
 ---
 title: "Jekyll Blog Tips"
 date: 2025-12-01 14:00:00
-categories: [Common, Blog]
-tags: [Blog]
+categories: [Reference, Blog]
+tags: []
 description: ""
 ---
 

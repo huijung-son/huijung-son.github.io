@@ -1,8 +1,8 @@
 ---
 title: "Insertion Sort"
 date: 2025-03-03 14:00:00
-categories: [Common, Algorithm]
-tags: [Algorithm]
+categories: [Algorithm, Sort]
+tags: []
 description: ""
 ---
 

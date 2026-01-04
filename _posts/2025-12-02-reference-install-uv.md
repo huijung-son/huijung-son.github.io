@@ -1,7 +1,7 @@
 ---
 title: "UV Install"
 date: 2025-12-02 14:00:00
-categories: [Common, Install]
+categories: [Reference, Install]
 tags: [UV]
 description: ""
 ---

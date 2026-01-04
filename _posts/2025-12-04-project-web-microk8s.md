@@ -1,7 +1,7 @@
 ---
 title: "Web Project - Chat Infrastructure (MikroK8s)"
 date: 2025-12-04 14:00:00
-categories: [Web, Project]
+categories: [Project, Web]
 tags: [Chat]
 description: ""
 ---
@@ -17,6 +17,7 @@ description: ""
 ```shell
 sudo apt update
 sudo microk8s status
+sudo microk8s enable rbac
 sudo microk8s enable dashboard
 ```
 
@@ -35,7 +36,6 @@ https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/cre
 ```
 
 ```shell
-sudo microk8s enable rbac
 sudo microk8s kubectl port-forward -n kube-system service/kubernetes-dashboard 10443:443 --address 0.0.0.0
 sudo microk8s enable registry
 sudo microk8s enable ingress
@@ -81,8 +81,6 @@ $ microk8s kubectl create ingress my-ingress \
 
 ```shell
 sudo microk8s enable argocd
-sudo microk8s  kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
-sudo microk8s kubectl port-forward service/argo-cd-argocd-server -n argocd 8080:443 --address 0.0.0.0
 ```
 
 - argocd description
@@ -119,4 +117,9 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 (You should delete the initial secret afterwards as suggested by the Getting Started Guide: https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli)
 ArgoCD is installed
+```
+
+```shell
+sudo microk8s kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
+sudo microk8s kubectl port-forward service/argo-cd-argocd-server -n argocd 8080:443 --address 0.0.0.0
 ```

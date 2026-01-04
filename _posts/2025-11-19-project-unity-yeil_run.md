@@ -1,8 +1,8 @@
 ---
-title: "Unity Project - YeilRun (CookieRun Clone)"
+title: "CookieRun Clone (YeilRun)"
 date: 2025-11-19 14:00:00
-categories: [Unity, Project]
-tags: [YeilRun]
+categories: [Project, Unity]
+tags: []
 description: ""
 ---
 
@@ -16,7 +16,7 @@ description: ""
 
 ### 일정
 
-![img](/assets/post/cookieRun/cookieRun_0.jpg)
+![img](/assets/post/cookie_run/cookie_run_0.jpg)
 
 ### webgl
 

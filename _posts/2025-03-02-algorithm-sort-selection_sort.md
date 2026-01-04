@@ -1,8 +1,8 @@
 ---
 title: "Selection Sort"
 date: 2025-03-01 14:00:00
-categories: [Common, Algorithm]
-tags: [Algorithm]
+categories: [Algorithm, Sort]
+tags: []
 description: ""
 ---
 

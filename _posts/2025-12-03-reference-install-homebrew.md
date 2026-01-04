@@ -1,11 +1,11 @@
 ---
-title: "HomeBrew Install"
+title: "Homebrew Install"
 date: 2025-12-03 14:00:00
-categories: [Common, Install]
-tags: [HomeBrew]
+categories: [Reference, Install]
+tags: [Homebrew]
 description: ""
 ---
 
-### HomeBrew 링크
+### Homebrew 링크
 
 [https://brew.sh/ko/](https://brew.sh/ko/){: target="_blank"}
