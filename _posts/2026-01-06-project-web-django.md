@@ -1,8 +1,8 @@
 ---
 title: "API Server (Django)"
-date: 2026-01-04 00:00:00
-categories: [Reference, Develop]
-tags: [Django]
+date: 2026-01-06 00:00:00
+categories: [Project, Web]
+tags: [Chat]
 description: ""
 ---
 
