@@ -2,7 +2,7 @@
 title: "E.S.C (Escape the School)"
 date: 2025-11-17 14:00:00
 categories: [Project, Unity]
-tags: []
+tags: [E.S.C]
 description: ""
 ---
 
@@ -24,21 +24,4 @@ description: ""
 
 ### 플레이어 층 이동 기믹
 
-![img](/assets/post/esc/esc_pc_0.gif)
-
----
-
-## E.S.C VR 버전
-
-### 이상 현상 목록
-
-![img](/assets/post/esc/esc_vr_0.gif)
-
-### 스팀 런처 동기화
-
-![img](/assets/post/esc/esc_vr_1.png)
-
-### 멀티 협동
-
-![img](/assets/post/esc/esc_vr_2.png)
-
+![img](/assets/post/esc/esc_pc_0.gif){:width="600px"}

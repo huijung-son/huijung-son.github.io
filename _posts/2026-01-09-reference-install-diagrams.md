@@ -12,8 +12,6 @@ description: ""
 
 ### installation 주의 사항
 
-https://diagrams.mingrammer.com/docs/getting-started/installation
-
 > diagrams requires Python 3.7 or higher, check your Python version first.
 
 > diagrams uses Graphviz to render the diagram, so you need to install Graphviz to use it.
@@ -23,7 +21,7 @@ https://diagrams.mingrammer.com/docs/getting-started/installation
 
 [Homebrew Install]({% post_url 2025-12-03-reference-install-homebrew %})
 
-### UV 를 사용하여 아키텍처 다이어그램 만들기
+### UV 가상환경에서 다이어그램 만들기
 
 [UV Install]({% post_url 2025-12-02-reference-install-uv %})
 
