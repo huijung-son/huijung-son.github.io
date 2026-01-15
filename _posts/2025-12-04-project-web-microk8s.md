@@ -6,7 +6,7 @@ tags: [Chat]
 description: ""
 ---
 
-### 개발 환경 구축
+### 로컬 프록시 설정
 
 [Caddy Install]({% post_url 2026-01-05-reference-install-caddy %})
 
@@ -22,7 +22,7 @@ http://127.0.0.1:8080 {
 }
 ```
 
-- Caddyfile 을 활용하여 쿠버네티스 운영 환경을 비슷하게 구축한다
+- CaddyFile 을 활용하여 클러스터 환경을 비슷하게 구축
 - "127.0.0.1:8080" -> 실제 DNS 주소
 - "/api/*" -> 주소/api/* 로 들어오는 요청은 reverse_proxy api 서버 주소로 프록시
 - 해당 방법은 ws 소켓 요청을 노출하되 api 요청은 내부에서만 호출 가능하도록 만든 구조
