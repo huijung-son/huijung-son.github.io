@@ -3,6 +3,7 @@ title: "E.S.C Anomaly"
 date: 2025-11-17 15:00:00
 categories: [Project, Unity]
 tags: [E.S.C]
+pin: true
 description: ""
 ---
 

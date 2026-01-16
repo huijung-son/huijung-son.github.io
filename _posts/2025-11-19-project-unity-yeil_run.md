@@ -3,6 +3,7 @@ title: "YeilRun (CookieRun Clone)"
 date: 2025-11-19 14:00:00
 categories: [Project, Unity]
 tags: [YeilRun]
+pin: true
 description: ""
 ---
 
