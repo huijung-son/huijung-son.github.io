@@ -1,5 +1,5 @@
 ---
-title: "Web Project - Chat API Server (Django)"
+title: "Chat API Server (Django)"
 date: 2026-01-06 00:00:00
 categories: [Project, Web]
 tags: [Chat]

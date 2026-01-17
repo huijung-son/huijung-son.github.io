@@ -1,5 +1,5 @@
 ---
-title: "Web Project - Chat Infrastructure (MikroK8s)"
+title: "Chat Infrastructure (MikroK8s)"
 date: 2025-12-04 14:00:00
 categories: [Project, Web]
 tags: [Chat]

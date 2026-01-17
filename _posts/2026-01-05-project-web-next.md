@@ -1,5 +1,5 @@
 ---
-title: "Web Project - Chat Front (next)"
+title: "Chat Frontend (next)"
 date: 2026-01-05 00:00:00
 categories: [Project, Web]
 tags: [Chat]
