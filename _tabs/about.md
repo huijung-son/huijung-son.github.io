@@ -5,3 +5,5 @@ order: 4
 ---
 
 > email: huijung2097@naver.com
+> 
+> [GitHub: https://github.com/huijung-son](https://github.com/huijung-son){: target="_blank"}
