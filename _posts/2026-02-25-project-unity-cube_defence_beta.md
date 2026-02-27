@@ -157,6 +157,20 @@ App/Composition/RootLifetimeScope       ← 둘 중 뭘 쓸지 여기서 결정
 
 ---
 
+## 코드 규칙
+
+| 폴더                       | using 참조                                 | DI 주입 (Construct)                                        | MonoBehaviour        | 외부 라이브러리 |
+|--------------------------|------------------------------------------|----------------------------------------------------------|----------------------|----------|
+| **Entities**             | 없음                                       | 없음                                                       | X                    | X        |
+| **Features/Ports**       | Entities만                                | 없음                                                       | X                    | X        |
+| **Features/Application** | Ports + Entities                         | Ports 인터페이스만 (생성자 주입)                                    | X                    | X        |
+| **App/Adapters**         | Ports + Entities + 외부 라이브러리 + App/Config | Ports 구현에 필요한 것 (생성자 주입)                                 | X                    | O        |
+| **App/EntryPoints**      | UseCase + Entities + 외부 라이브러리            | UseCase(행위) + Port 인터페이스(상태 조회) + 다른 EntryPoint(이벤트 구독용) | O                    | O        |
+| **App/Config**           | Entities                                 | 없음 (ScriptableObject)                                    | X (SO 상속)            | X        |
+| **App/Composition**      | 모든 레이어                                   | 없음 (등록만 함)                                               | X (LifetimeScope 상속) | O        |
+
+---
+
 ## 기능 구현 시 체크리스트
 
 ### 1단계: 기능 분류
